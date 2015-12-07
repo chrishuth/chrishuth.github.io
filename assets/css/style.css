@@ -5,7 +5,7 @@ body {
     position: absolute;
     display: table;
     background: #f5f5f5;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: 'Open Sans Condensed', Helvetica, Arial, sans-serif;
     background-size: cover;
     background-attachment: fixed;
 }
